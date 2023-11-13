@@ -1,2 +1,6 @@
-# First-code-thing
-First code not on scrath
+<DOCTYPE html>
+<html>
+<body>
+This is my first web page
+</body>
+</html>
